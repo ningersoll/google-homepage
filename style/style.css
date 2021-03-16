@@ -112,3 +112,10 @@ div.footer-right {
 a:hover {
     text-decoration: underline;
 }
+
+input:hover {
+    outline: none;
+}
+input:focus, textarea:focus, select:focus {
+     outline: none;
+}
